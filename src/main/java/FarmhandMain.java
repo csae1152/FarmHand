@@ -1,4 +1,4 @@
-import io.github.jhipster.registry.config.Constants;
+import config.Constants;
 import io.github.jhipster.registry.config.DefaultProfileUtil;
 import io.github.jhipster.registry.config.JHipsterProperties;
 
