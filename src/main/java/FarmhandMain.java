@@ -1,6 +1,5 @@
 import config.Constants;
-import io.github.jhipster.registry.config.DefaultProfileUtil;
-import io.github.jhipster.registry.config.JHipsterProperties;
+import config.DefaultProfileUtil;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
