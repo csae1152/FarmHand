@@ -7,3 +7,7 @@ Technology overview:
 - Angular
 - Maven
 - Git
+- Hibernate
+- MySQL
+- Elasticsearch
+- HBase
