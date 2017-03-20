@@ -1,9 +1,9 @@
 # Farmhand
 Farmhand will help you prediciting what will happen in the future.
 
-Technology overview:
+Technology stack:
 
-- Spring Boot
+- Spring, including Spring Boot, Spring Cloud and Spring Social.
 - Angular
 - Maven
 - Git
