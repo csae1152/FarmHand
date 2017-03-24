@@ -27,6 +27,10 @@ import java.util.Collection;
 public class FarmhandMain {
   private static final Logger log = LoggerFactory.getLogger(FarmhandMain.class);
 
+  /**
+  *
+  * checks if there is a default env.
+  */
   @Inject
   private Environment env;
 
