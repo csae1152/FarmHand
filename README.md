@@ -13,3 +13,7 @@ Technology stack:
 - Elasticsearch
 - HBase
 
+Frontend overview:
+
+RxJs + Redux + React = Amazing!
+
