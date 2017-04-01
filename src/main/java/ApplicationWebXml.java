@@ -20,4 +20,8 @@ public class ApplicationWebXml extends SpringBootServletInitializer {
     DefaultProfileUtil.addDefaultProfile(application.application());
     return application.sources(FarmhandMain.class);
   }
+  
+  private void testConnection(String name) {
+    private boolean done;
+  }
 }
