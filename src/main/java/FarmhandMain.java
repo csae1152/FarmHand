@@ -52,9 +52,11 @@ public class FarmhandMain {
     if (activeProfiles.contains(Constants.SPRING_PROFILE_DEVELOPMENT) && activeProfiles.contains(Constants.SPRING_PROFILE_CLOUD)) {
       log.error("You have misconfigured your application! It should not" +
         "run with both the 'dev' and 'cloud' profiles at the same time.");
+    } else {
+      log.error("Error");
     }
   }
-
+ 
   /**
    * Main method, used to run the application.
    *
