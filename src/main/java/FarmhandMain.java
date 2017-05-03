@@ -76,6 +76,7 @@ public class FarmhandMain {
       env.getProperty("server.port"),
       InetAddress.getLocalHost().getHostAddress(),
       env.getProperty("server.port"),
+      env.getProperty("development"),       
       Arrays.toString(env.getActiveProfiles()));
   }
 
