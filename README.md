@@ -3,7 +3,7 @@ Farmhand will help you prediciting what will happen in the future.
 
 Technology stack:
 
-- Spring, including Spring Boot, Spring Cloud and Spring Social.
+- Spring Boot, Spring Cloud and Spring Social.
 - Angular2
 - ReactJs
 - Maven
