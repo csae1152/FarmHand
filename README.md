@@ -14,7 +14,7 @@ Technology stack:
 
 Frontend overview:
 
-Vue.js
+- Vue.js
 
 
 
