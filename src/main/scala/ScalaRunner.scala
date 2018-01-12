@@ -1,3 +1,3 @@
-object ScalaRunner extends App {
+object ScalaRunnerStart extends App {
 
 }
