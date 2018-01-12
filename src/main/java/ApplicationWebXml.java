@@ -21,7 +21,7 @@ public class ApplicationWebXml extends SpringBootServletInitializer {
     return application.sources(FarmhandMain.class);
   }
   
-  private void testConnection(String conifig) {
+  private void testConnection(String config) {
     private boolean done;
   }
 }
