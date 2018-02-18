@@ -5,7 +5,6 @@ Technology stack:
 
 - Spring Boot, Spring Data, Spring Cloud and Spring Social.
 - Netflix OSS Stack.
-- Git
 - Hibernate
 - MySQL
 - Elasticsearch
@@ -15,6 +14,12 @@ Technology stack:
 Frontend overview:
 
 - Vue.js
+
+Image store:
+
+- Cloudinary
+
+
 
 
 
